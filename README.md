@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anasken
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Dart and Flutter framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anashalim01@gmail.com
 
